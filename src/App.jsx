@@ -13,7 +13,7 @@ import ProjectDetail from "./pages/ProjectDetail";
 import Gurcistan from "./pages/blog/Gurcistan";
 import Misir from "./pages/blog/Misir";
 import Footer from "./components/Footer";
-
+import ScrollToTopButton from "./components/ScrollToTopButton";
 
 function App() {
   const [showForm, setShowForm] = useState(false);
@@ -63,6 +63,7 @@ function App() {
               <Blog />
               <ContactForm showForm={showForm} setShowForm={setShowForm} />
               <Footer />
+              <ScrollToTopButton />
             </>
           }
         />

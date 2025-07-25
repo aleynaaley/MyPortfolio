@@ -1,10 +1,10 @@
 const educations = [
   {
-    school: "Emine Ahmet Yeni Proje İmam Hatip Lisesi",
+    school: "Ecole 42",
     degree: "",
-    period: "2017-2021",
+    period: "2023-2024",
     description:
-      "Lise eğitimim boyunca fen ve matematik ağırlıklı eğitim aldım.Uluslararası biyoloji sempozyumuna projem ile katıldım.",
+      "Ecole 42, öğretmen ve sınıf kavramlarının olmadığı, akran öğrenmesi ve proje tabanlı eğitimle zaman yönetimi ve grup çalışmasını geliştiren yenilikçi bir okul",
   },
   {
     school: "Yalova Üniversitesi",
@@ -14,11 +14,11 @@ const educations = [
       "Lisans eğitimimde yazılım geliştirme, algoritmalar ve yapay zeka konularında yoğunlaştım.",
   },
   {
-    school: "Ecole 42",
+    school: "Emine Ahmet Yeni Proje İmam Hatip Lisesi",
     degree: "",
-    period: "2023-2024",
+    period: "2017-2021",
     description:
-      "Ecole 42, öğretmen ve sınıf kavramlarının olmadığı, akran öğrenmesi ve proje tabanlı eğitimle zaman yönetimi ve grup çalışmasını geliştiren yenilikçi bir okul",
+      "Lise eğitimim boyunca fen ve matematik ağırlıklı eğitim aldım.Uluslararası biyoloji sempozyumuna projem ile katıldım.",
   },
 ];
 

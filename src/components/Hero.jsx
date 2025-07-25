@@ -30,7 +30,7 @@ function Hero({ setShowForm, setShowMenu }) {
 
       {/* Merhaba yazısı */}
       <h1 className="text-4xl sm:text-6xl font-bold drop-shadow-lg animate-fadeSlide">
-        Merhaba, ben Aleyna !
+        Merhaba, ben Aleyna
       </h1>
 
       {/* Aşağı Ok */}
