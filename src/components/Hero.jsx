@@ -6,6 +6,8 @@ import backgroundImage from "../assets/backg.png";
 function Hero({ setShowForm, setShowMenu }) {
   return (
     <section
+
+    
       id="hero"
       className="h-screen bg-cover bg-center flex flex-col items-center justify-center text-white text-center px-4 relative"
       style={{ backgroundImage: `url(${backgroundImage})` }}

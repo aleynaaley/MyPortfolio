@@ -5,4 +5,10 @@
 /*bu menüdeki tıklamaları yavaşlatacak */
 html {
   scroll-behavior: smooth;
-}   
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #819A91 !important;
+  }
+
+}

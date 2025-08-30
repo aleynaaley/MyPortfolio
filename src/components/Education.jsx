@@ -26,12 +26,12 @@ function Education() {
   return (
     <section
       id="egitim"
-      className="min-h-screen bg-white py-16 px-6 sm:px-12 relative"
+      className="min-h-screen bg-white dark:bg-gray-900 py-16 px-6 sm:px-12 relative"
     >
-      <h2 className="text-3xl font-bold text-gray-800 mb-12 text-center">
+      <h2 className="text-3xl font-bold text-gray-800 mb-12 text-center dark:text-white">
         Eğitim
       </h2>
-      <div className="max-w-4xl mx-auto relative">
+      <div className="max-w-4xl mx-auto relative ">
         {/* Timeline çizgisi */}
         <div className="hidden md:block absolute top-0 left-1/2 transform -translate-x-1/2 h-full w-1 bg-[#819A91]" />
         <div className="space-y-20">

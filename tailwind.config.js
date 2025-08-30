@@ -4,6 +4,13 @@ export default {
     "./index.html",
     "./src/**/*.{js,jsx}",
   ],
+
+  darkMode: "class", // dark mode class tabanlı olacak
+  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+
   theme: {
     extend: {
       keyframes: {
