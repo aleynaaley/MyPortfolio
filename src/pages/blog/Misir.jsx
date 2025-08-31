@@ -9,7 +9,9 @@ function Misir() {
         <h1 className="text-3xl font-bold text-[#819A91] mb-6 text-center">Antik Ülke Mısır</h1>
 
         <p className="text-gray-700 leading-relaxed text-lg">
-          XXXXXXXXX
+          Merhaba!
+          Bu yazımda, arkadaşlarımla birlikte yaptığım Mısır gezisinden bahsetmek istiyorum. 
+          En başından başlayarak, gitmeyi düşünenlere fikir vermesi açısından bazı küçük ayrıntılara da yer vermeye çalışacağım.
         </p>
       </div></>
   );
