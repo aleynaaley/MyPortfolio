@@ -5,15 +5,15 @@ import { Navigation, Autoplay } from 'swiper/modules';
 
 function Projects() {
   const projects = [
-    { id: 7, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
-    { id: 8, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
-    { id: 9, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
     { id: 1, name: "Approval System", imageUrl: "/projects/proje1.jpg", link: "https://github.com/aleynaaley/approvalSystem/tree/main" },
     { id: 2, name: "YuniEvent", imageUrl: "/projects/proje2.jpg", link: "!" },
     { id: 3, name: "Board Game Archive", imageUrl: "/projects/proje3.jpg", link: "https://github.com/aleynaaley/BoardGameArchive" },
     { id: 4, name: "Smart Home Automation", imageUrl: "/projects/proje4.jpg", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
     { id: 5, name: "Ecole 42 Projects", imageUrl: "/projects/proje5.jpg", link: "!" },
     { id: 6, name: "PusulaAI", imageUrl: "/projects/proje6.png", link: "https://github.com/PusulaAI77" },
+    { id: 7, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
+    { id: 8, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
+    { id: 9, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
   ];
 
   return (
@@ -22,11 +22,37 @@ function Projects() {
 
       <Swiper
         modules={[Navigation, Autoplay]}
-        slidesPerView={4}      // aynı anda 4 proje görünsün
-        spaceBetween={20}      // aralarındaki boşluk
-        navigation             // sağ-sol oklar
-        autoplay={{ delay: 2500, disableOnInteraction: false }} // otomatik kayma
-        loop                   // sonsuz döngü
+        // Responsive breakpoints
+        breakpoints={{
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 10,
+          },
+          480: {
+            slidesPerView: 1.5,
+            spaceBetween: 15,
+          },
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2.5,
+            spaceBetween: 20,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 20,
+          },
+          1280: {
+            slidesPerView: 4,
+            spaceBetween: 20,
+          },
+        }}
+        navigation
+        autoplay={{ delay: 3000, disableOnInteraction: false }}
+        loop
+        className="px-4"
       >
         {projects.map(({ id, name, imageUrl, link }) => {
           const isExternal = link !== "!";
