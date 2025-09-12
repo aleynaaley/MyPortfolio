@@ -263,12 +263,19 @@ function Gürcistan() {
 
           </p>
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+          
           <p className="text-gray-800 text-lg leading-relaxed"></p>
         </div>
       </section></>
