@@ -387,11 +387,11 @@ function Gürcistan() {
           <div className="flex justify-center items-center gap-6 my-10">
             <img
               src="/blogs/tiflis33.jpg"
-                className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
             />
             <img
               src="/blogs/tiflis34.jpg"
-                 className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
             />
           </div>
 
@@ -408,91 +408,229 @@ function Gürcistan() {
             Tarayıcınız video etiketini desteklemiyor.
           </video>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Tiflis'te 5. ve son günümüzde sabah erkenden otelden ayrıldık ve tren istasyonuna doğru yola çıktık. Planımız Tiflis'te 5 gün, Batumi'de 2 gün geçirmekti. 5 Mayıs'ta Tiflis'te ilk günümüzü, 9 Mayıs'ta da Tiflis'te son günümüzü ve Batumi'ye yolculuk yaptığımız günü yaşayacaktık. Önceden Tiflis-Batumi arası tren biletlerimizi Tree uygulamasından almıştık.</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
-
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Tren garından Batumi'ye giden trenimize bindik ve yaklaşık 6 saatlik bir yolculuğumuz başladı. Yolculuk boyunca birçok şehirden geçtik: Kaspi, Gori, Khashuri, Abasha, Ureki ve nihayet Batumi.Tren yolculuğu bizim şansızlığımıza, sanırım bir bayram ya da kutlamadan kaynaklı çok doluydu ve çok fazla çocuk vardı. Bu yüzden biraz gürültülüydü ama genel olarak kötü bir yolculuk değildi. Manzarayı izleyerek ve arkadaşlarımla oyun oynayarak hızlı bir şekilde yolu bitirdik. </p>
 
 
+          <div className="flex flex-col md:flex-row justify-center items-center gap-6 my-10">
+            {/* Video 1 */}
+            <video
+              src="/blogs/video1.mp4"
+              autoPlay
+              muted
+              loop
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+
+            {/* Video 2 */}
+            <video
+              src="/blogs/video2.mp4"
+              autoPlay
+              muted
+              loop
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+
+            {/* Video 3 */}
+            <video
+              src="/blogs/video3.MOV"
+              autoPlay
+              muted
+              loop
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+
+          <p className="text-gray-800 text-lg leading-relaxed">Batum'a varır varmaz önce hostele uğrayıp eşyalarımızı bırakmak istedik. Bu yüzden tren istasyonundan taksi ile Batumi merkeze doğru ilerledik - tren istasyonu merkezin biraz dışındaydı.</p>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Hostelimiz Surf Batumi Hotel'di. Burayı tercih etmemizin birkaç önemli nedeni vardı: Batumi'da sadece bir gece kalacaktık ve 3 kişiydik. Batumi'da 3 yataklı bir otel odası bulmak neredeyse imkansız, ama burada aile odası bulunuyordu - kendinize ait banyo ve 3 adet yatak ile. Toplam gecelik yaklaşık 29 Euro gibi oldukça uygun bir fiyattı. Hostelin genel atmosferi oldukça canlıydı; kalabalık ve arkadaş canlısı görünen misafirler vardı. Biz özel odada kaldığımız için paylaşımlı oda deneyimi yaşamadık ama ortak kullanım alanlarında çamaşır makinesi, ütü gibi pratik imkanlar mevcuttu. En büyük artısı ise konumuydu - Europa Meydanı'nın hemen arkasında ve Piazza Meydanı'nın ilerilerinde, Batum'un merkezinde mükemmel bir yerdeydi.</p>
+          {/**buraya otel fotoğrafı gelecek */}
+
+          <p className="text-gray-800 text-lg leading-relaxed">Hostele yerleştikten sonra hızlıca Europa Meydanı'nı gezdik. Bu merkezi meydan, Batumi'nin nabzının attığı, canlı atmosferiyle dikkat çeken bir nokta. Oradan St. Nicholas Church'e yöneldik - 1865 yılında inşa edilen bu Ermeni Katolik Kilisesi, Batumi'nin en eski dini yapılarından biri olarak tarihi dokuyu yansıtıyor.</p>
+
+          <div className="flex justify-center items-center gap-6 my-10">
+            <img
+              src="/blogs/tiflis36.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs/tiflis37.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Sonrasında Piazza Square'i ziyaret ettik.
+            İtalyan mimarisinden esinlenerek tasarlanan bu renkli meydan, çevresindeki vitray pencereli binaları ve romantik atmosferiyle büyülüyor.
+            Cafe Daphne'de yemek molası verdik ve buradan Nuri göl'e (Nuri Lake) doğru Zurab Gorgiladze Caddesi üzerinden yürüdük .</p>
+
+          <div className="flex justify-center items-center gap-6 my-10">
+            <img
+              src="/blogs/tiflis40.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs/tiflis39.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Akşam vakti Rustaveli Caddesi boyunca uzanan büyülü yürüyüşümüz başladı. İlk durağımız Kadın Kelebek Heykeli (Fairy aka Woman Butterfly) oldu - bu zarif heykel, kadın gücünü simgeleyen modern sanat eserlerinden.
+            Ardından İlk Aşk Heykeli (First Love Statue) ile karşılaştık, genç çiftlerin buluşma noktası olan bu romantik yapıt.</p>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Japon Bahçesi'nde doğanın huzurlu atmosferini yaşadıktan sonra Batumi Dolphinarium'ın önünden geçerek 6 Mayıs Parkı'na ulaştık. Bu yeşil alan, şehrin gürültüsünden kaçmak isteyenler için mükemmel bir nefes alma noktası.</p>
+
+          <div className="flex justify-center items-center gap-6 my-10">
+            <img
+              src="/blogs/tiflis38.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs/tiflis41.jpg"
+              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+          </div>
+          <p className="text-gray-800 text-lg leading-relaxed">Yürüyüşümüzün en etkileyici durağı Alfabe Anıtı (Georgian Alphabet Tower) idi. 130 metre yüksekliğindeki bu muhteşem yapı, Gürcü alfabesinin 33 harfini temsil ediyor ve Batumi'nin en ikonik simgelerinden biri.</p>
+
+          <img
+            src="/blogs/tiflis42.jpg"
+            className="w-full rounded-lg shadow-md" />
+
+          <p className="text-gray-800 text-lg leading-relaxed">Son durağımız ise meşhur Ali ve Nino heykeliydi. Azerbaycanlı yazar Kurban Said'in romanından esinlenen bu 8 metre yüksekliğindeki hareketli heykel, her gün birbirine kavuşan ve ayrılan iki sevgiliyi simgeliyor. Gerçekten de söylendiği kadar küçükmüş ama etkisi büyüktü :)
+            Bu büyülü Batumi turu sonrasında hostelimize döndük ve uyuduk. Gürcistan'daki son günümüz için heyecanlıydık!</p>
+
+          <div className="flex flex-col md:flex-row justify-center items-center gap-6 my-10">
+            <video
+              src="/blogs/video4.mp4"
+              autoPlay
+              muted
+              loop
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+
+            <img
+              src="/blogs/tiflis43.jpg"
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+
+            <video
+              src="/blogs/video5.MOV"
+              autoPlay
+              muted
+              loop
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Uçuşumuz akşam saat 19:00 civarında olduğu için sabah erkenden kalktık. İlk işimiz güzel bir kahvaltı yapmak oldu - şehirde gördüğümüz bir Türk restoranında kahvaltı yaptık, Gürcistan lezzetlerinden sonra tanıdık tatları bulmak da güzeldi.</p>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Kahvaltı sonrası Batumi Meryem Ana Kilisesi'ni ziyaret ettik. Bu Katolik kilise, şehrin dini çeşitliliğini gösteren önemli yapılardan biri.Katedralin çarpıcı tasarımı, yüksek bir temelin üzerinde yükselen üç nefli bazilikasında hemen göze çarpar; doğu cephesini flanke eden iki etkileyici çan kulesi ve batı ile doğu eksenlerini süsleyen beşgen çıkıntılarla bezeli bir yapıdır.</p>
+
+          <div className="flex flex-col md:flex-row justify-center items-center gap-6 my-10">
+            <img
+              src="/blogs/tiflis45.jpg"
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs/tiflis44.jpg"
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+
+            <img
+              src="/blogs/tiflis46.jpg"
+              className="w-64 h-120 md:w-80 md:h-96 rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Ardından Batumi Orta Camii'ne yöneldik - bu küçük ve şirin cami gerçekten çok beğendiğim bir yerdi.
+            Mütevazı mimarisi ve huzurlu atmosferiyle dikkat çekiyordu.
+            1886 yılında Hamşioğlu (Khimshiashvili) ailesinden Aslan Bey tarafından inşa ettirilmiştir.
+            Hamşioğlu soylu bir Müslüman Gürcü ailesiydi.Caminin duvarları Laz ustalar tarafından boyanmıştır. Cami yaygın olarak ortadaki cami anlamında "Orta Came" ("ორთა ჯამე") olarak bilinir.
+          </p>
+
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+            <img
+              src="/blogs/tiflis47.jpg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+            <img
+              src="/blogs/tiflis48.jpg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Şehri son kez yukarıdan seyretmek için 2,586 metre uzunluğundaki Argo Teleferik'e bindik.
+            Bu 2.5 kilometrelik yolculuk, şehir merkezinden başlayarak Karadeniz, dağlar ve Batumi silüetinin muhteşem manzarasını sunan seyir platformuna çıkıyor.
+            Anuria Dağı'nda deniz seviyesinden yaklaşık 250 metre yükseklikte yer alan bu yolculuk gerçekten de çok güzeldi!
+            15 dakika süren bu yolculuk boyunca tüm şehri ve denizi izleyebildik.</p>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Tepede biraz vakit geçirdik, insanlarla tanışıp sohbet ettik. Epey Türk ziyaretçi vardı - zaten Batumi bence Türkiye'nin 82. şehri olmuş! :)</p>
+
+          <div className="flex flex-col md:flex-row justify-center items-center gap-4 my-8">
+            <video
+              src="/blogs/tiflis49.MOV"
+              autoPlay
+              muted
+              loop
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+            <img
+              src="/blogs/tiflis50.jpg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+          </div>
+
+          <p className="text-gray-800 text-lg leading-relaxed">Teleferikten indikten sonra Ali ve Nino heykelini bir de sabah gün ışığında ziyaret ettik. Gece ve gündüz görüntüleri arasındaki fark oldukça etkileyiciydi. Son kez şehri dolaştık, son yemeğimizi yedik ve hostelden eşyalarımızı alıp taksi ile havaalanına doğru yola çıktık.</p>
+
+
+          <p className="text-gray-800 text-lg leading-relaxed">Havaalanı merkeze biraz uzak olsa da taksi ile ulaşım çok rahattı ve fiyatı hiç yüksek değildi. Böylece Gürcistan maceramız sona erdi - unutulmaz anılarla dolu 7 günün ardından eve dönüş zamanı gelmişti.</p>
+
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+            <img
+              src="/blogs/tiflis51.jpg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+            <img
+              src="/blogs/tiflis52.jpg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+          </div>
+
+
+
+          {/**kaydırılabilir galeri */}
+          <div className="overflow-x-auto">
+            <div className="flex gap-4 py-4">
+              <img src="/blogs/g.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover"/>
+              <img src="/blogs/g1.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover"/>
+              <img src="/blogs/g2.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g3.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g4.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g5.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g6.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g7.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g8.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g9.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g10.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g11.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g12.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g13.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g14.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g15.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g16.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g17.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g18.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g19.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g20.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g21.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g22.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g23.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g24.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g25.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+            </div>
+          </div>
+          
         </div>
       </section></>
   );
