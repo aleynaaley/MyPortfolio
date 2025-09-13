@@ -367,42 +367,46 @@ function Gürcistan() {
             />
           </div>
 
+          {/* Yazı */}
+          <p className="text-gray-800 text-lg leading-relaxed">
+            Dry Bridge'i gezdikten sonra acıktık ve bir Azeri restoranı bulduk: Sahaf Sufresi.
+            Açıkçası günlerce khinkali ve khachapuri yemiştik — evet gerçekten güzellerdi ama
+            artık biraz daha ev yemeği tadında, sıvı yemekler yemek istedik.
+          </p>
 
-          <div className="flex flex-col md:flex-row items-start gap-8 my-10">
-            {/* Sol taraf: 2 fotoğraf (üst üste, eşit boyutlu) */}
-            <div className="grid grid-rows-2 gap-4 md:w-1/2">
-              <img
-                src="/blogs/tiflis33.jpg"
-                className="w-full h-48 md:h-56 rounded-lg shadow-md object-cover"
+          <p className="text-gray-800 text-lg leading-relaxed">
+            Bu restoranda domuz eti yoktu, bu yüzden çok rahattık. Çünkü birçok işletmede
+            khinkali çeşitleri peynir, patates ve etli olarak sunuluyor; etli olanlar da dana
+            ve domuz etli olarak ikiye ayrılıyor. Domuz eti de bulunduğu için biz güvenlik
+            açısından dana etli khinkali denememiştik. Eğer siz de bu konuda dikkatli
+            oluyorsanız, bu restoran tam size göre. Çorbaları da gerçekten çok lezzetliydi.
+            Eğer Gürcistan'da Türk yemeklerini özlediyseniz buraya mutlaka uğrayın ev yemeği
+            tadında sıcacık yemekler bulacaksınız.
+          </p>
 
-              />
-              <img
-                src="/blogs/tiflis34.jpg"
-                className="w-full h-48 md:h-56 rounded-lg shadow-md object-cover"
-              />
-
-            </div>
-            {/* Yazı */}
-            <div className="md:w-1/2">
-              <p className="text-gray-800 text-lg leading-relaxed mb-4">
-                Dry Bridge'i gezdikten sonra acıktık ve bir Azeri restoranı bulduk: Sahaf Sufresi.
-                Açıkçası günlerce khinkali ve khachapuri yemiştik — evet gerçekten güzellerdi ama
-                artık biraz daha ev yemeği tadında, sıvı yemekler yemek istedik.
-              </p>
-
-              <p className="text-gray-800 text-lg leading-relaxed">
-                Bu restoranda domuz eti yoktu, bu yüzden çok rahattık. Çünkü birçok işletmede
-                khinkali çeşitleri peynir, patates ve etli olarak sunuluyor; etli olanlar da dana
-                ve domuz etli olarak ikiye ayrılıyor. Domuz eti de bulunduğu için biz güvenlik
-                açısından dana etli khinkali denememiştik. Eğer siz de bu konuda dikkatli
-                oluyorsanız, bu restoran tam size göre. Çorbaları da gerçekten çok lezzetliydi.
-                Eğer Gürcistan'da Türk yemeklerini özlediyseniz buraya mutlaka uğrayın ev yemeği
-                tadında sıcacık yemekler bulacaksınız.
-              </p>
-            </div>
+          <div className="flex justify-center items-center gap-6 my-10">
+            <img
+              src="/blogs/tiflis33.jpg"
+                className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs/tiflis34.jpg"
+                 className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+            />
           </div>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Yemekten sonra biraz daha şehirde gezindik, küçük çaplı alışverişler yaptık ve sonunda otele geri döndük. Böylece Jvari Monastery, Svetitskhoveli Cathedral ve Chronicle of Georgia ziyaretleriyle başlayan, Chimney Cake denemesi ve Dry Bridge Market keşfiyle devam eden, Azeri mutfağından lezzetlerle son bulan dolu dolu bir günü tamamlamış olduk.</p>
+
+          <video
+            src="/blogs/tiflis35.mp4"
+            autoPlay
+            muted
+            loop
+            className="w-80 mx-auto h-auto rounded-lg shadow-md my-6"
+
+          >
+            Tarayıcınız video etiketini desteklemiyor.
+          </video>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
