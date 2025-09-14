@@ -384,14 +384,17 @@ function Gürcistan() {
             tadında sıcacık yemekler bulacaksınız.
           </p>
 
-          <div className="flex justify-center items-center gap-6 my-10">
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+
             <img
               src="/blogs/tiflis33.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+              style={{ width: "250px" }}
             />
             <img
               src="/blogs/tiflis34.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+              style={{ width: "250px" }}
             />
           </div>
 
@@ -450,14 +453,15 @@ function Gürcistan() {
 
           <p className="text-gray-800 text-lg leading-relaxed">Hostele yerleştikten sonra hızlıca Europa Meydanı'nı gezdik. Bu merkezi meydan, Batumi'nin nabzının attığı, canlı atmosferiyle dikkat çeken bir nokta. Oradan St. Nicholas Church'e yöneldik - 1865 yılında inşa edilen bu Ermeni Katolik Kilisesi, Batumi'nin en eski dini yapılarından biri olarak tarihi dokuyu yansıtıyor.</p>
 
-          <div className="flex justify-center items-center gap-6 my-10">
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+
             <img
               src="/blogs/tiflis36.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
             <img
               src="/blogs/tiflis37.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
           </div>
 
@@ -465,14 +469,15 @@ function Gürcistan() {
             İtalyan mimarisinden esinlenerek tasarlanan bu renkli meydan, çevresindeki vitray pencereli binaları ve romantik atmosferiyle büyülüyor.
             Cafe Daphne'de yemek molası verdik ve buradan Nuri göl'e (Nuri Lake) doğru Zurab Gorgiladze Caddesi üzerinden yürüdük .</p>
 
-          <div className="flex justify-center items-center gap-6 my-10">
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+
             <img
               src="/blogs/tiflis40.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
             <img
               src="/blogs/tiflis39.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
           </div>
 
@@ -481,16 +486,18 @@ function Gürcistan() {
 
           <p className="text-gray-800 text-lg leading-relaxed">Japon Bahçesi'nde doğanın huzurlu atmosferini yaşadıktan sonra Batumi Dolphinarium'ın önünden geçerek 6 Mayıs Parkı'na ulaştık. Bu yeşil alan, şehrin gürültüsünden kaçmak isteyenler için mükemmel bir nefes alma noktası.</p>
 
-          <div className="flex justify-center items-center gap-6 my-10">
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+
             <img
               src="/blogs/tiflis38.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
             <img
               src="/blogs/tiflis41.jpg"
-              className="w-80 h-80 md:w-88 md:h-88 rounded-lg shadow-md object-cover"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
             />
           </div>
+
           <p className="text-gray-800 text-lg leading-relaxed">Yürüyüşümüzün en etkileyici durağı Alfabe Anıtı (Georgian Alphabet Tower) idi. 130 metre yüksekliğindeki bu muhteşem yapı, Gürcü alfabesinin 33 harfini temsil ediyor ve Batumi'nin en ikonik simgelerinden biri.</p>
 
           <img
@@ -602,6 +609,7 @@ function Gürcistan() {
           {/**kaydırılabilir galeri */}
           <div className="overflow-x-auto">
             <div className="flex gap-4 py-4">
+              <img src="/blogs/g0.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover"/>
               <img src="/blogs/g.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover"/>
               <img src="/blogs/g1.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover"/>
               <img src="/blogs/g2.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
@@ -628,6 +636,33 @@ function Gürcistan() {
               <img src="/blogs/g23.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
               <img src="/blogs/g24.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
               <img src="/blogs/g25.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g26.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g27.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g28.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g29.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g30.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g31.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g32.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g33.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g34.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g35.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g36.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g37.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g38.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g39.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g40.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g41.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g42.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g43.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g44.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g45.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g46.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g47.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g48.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g49.JPG" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g50.JPG" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+              <img src="/blogs/g51.jpg" className="h-60 w-auto rounded-lg shadow-md object-cover" />
+
             </div>
           </div>
           
