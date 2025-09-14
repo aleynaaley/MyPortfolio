@@ -13,7 +13,7 @@ function Gürcistan() {
         <div className="max-w-4xl mx-auto space-y-8">
           {/* Sayfa başlığı */}
           <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">
-            Gürcistan'da 1 Hafta: Tiflis,Mtsheta,Batum
+            Gürcistan'da 1 Hafta: Tiflis,Mtsheta ve Batum
           </h1>
 
           {/* Banner görsel (sayfa başı) */}
