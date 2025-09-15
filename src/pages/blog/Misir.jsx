@@ -55,9 +55,9 @@ function Misir() {
 
           <p className="text-gray-800 text-lg leading-relaxed">26 Şubat sabahı Hurghada'ya iniş yaptığımızda, bu güzel şehri keşfetmeye hazırdık. Hurghada, Mısır'ın doğu sahilinde, Kızıldeniz kıyısında yer alan ve özellikle su sporları ile ünlü bir tatil beldesi. 1980'lerde küçük bir balıkçı köyüyken, bugün Mısır'ın en önemli turizm merkezlerinden biri haline gelmiş durumda.</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Açıkçası bazı aksilikler bekliyorduk. Gitmeden önce vloglar izlemiş, bloglar okumuştuk ama bu kadar erken bir aksilik beklemiyorduk! GetYourGuide sitesinden aldığımız deniz altı turu vardı - Hurghada'da Kızıldeniz'de dalacak, sonra öğlen Luksor'a geçecektik. Ancak tur şirketi ile iletişime geçemedik.</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Bu durumda plan değiştirdik ve Hurghada'da biraz gezdikten sonra Go Bus'tan otobüs bileti alıp Hurghada'dan Luksor'a hareket ettik. Bazen seyahatte planlar değişir ve bu da gezinin bir parçası oluyor!</p>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
