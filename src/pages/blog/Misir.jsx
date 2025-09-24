@@ -59,7 +59,24 @@ function Misir() {
 
           <p className="text-gray-800 text-lg leading-relaxed">Bu durumda plan değiştirdik ve Hurghada'da biraz gezdikten sonra Go Bus'tan otobüs bileti alıp Hurghada'dan Luksor'a hareket ettik. Bazen seyahatte planlar değişir ve bu da gezinin bir parçası oluyor!</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <div className="flex flex-wrap gap-4 justify-center mb-8">
+
+            <img
+              src="/blogs_2/egypt/e5.jpg"
+              alt="Episode"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+            <img
+              src="/blogs_2/egypt/e6.jpg"
+              alt="Episode Tbilisi Otel"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
+          </div>
+
+          <h2 className="text-3xl font-bold text-[#819A91] mb-6 text-left">Luksor: Açık Hava Müzesi  </h2>
+
+
+          <p className="text-gray-800 text-lg leading-relaxed">Luksor'a geçiş otobüs ile konforlu bir yolculuk değildi ama etrafı izleyerek, manzarayı görerek fena olmayan bir otobüs yolculuğu yaptık. Luksor'a gittiğimizde akşam olmuştu, direkt otele geçtik.</p>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
