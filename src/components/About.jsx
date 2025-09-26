@@ -10,7 +10,7 @@ function About() {
           <img
             src={profileImg}
             alt="Profil"
-            className="w-72 h-72 object-cover rounded-full shadow-lg border-4 border-[#819A91]"
+            className="w-81 h-81 object-cover rounded-full shadow-lg border-4 border-[#819A91]"
           />
         </div>
 

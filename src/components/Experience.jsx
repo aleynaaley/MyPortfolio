@@ -3,7 +3,7 @@ function Experience() {
     {
       title: "Bilgi Teknolojileri Stajyerliği",
       company: "TNC Group Şirketleri",
-      period: "Ağustos 2025 - halen",
+      period: "Ağustos 2025 - Eylül 2025",
       description: "TNC Group Şirketleri bünyesinde Bilgi Teknolojileri stajyerliğim boyunca Excel, AutoCAD, Python, Photoshop , Yazılım Proje Yönetimi ve Ekip çalışması gibi beceriler kazanmayı hedefliyorum."
     },
     {
