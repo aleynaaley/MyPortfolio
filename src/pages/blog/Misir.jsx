@@ -84,6 +84,8 @@ function Misir() {
             src="/blogs_2/egypt/e7.jpg"
             className="w-full rounded-lg shadow-md" />
 
+  
+
           <p className="text-gray-800 text-lg leading-relaxed">Luksor'u üstten görmek, özellikle Hatşepsut Tapınağı'nı, Krallar Vadisi'ni ve firavun mezarlarını net görmek için uçan balona binmeyi planlıyorduk. GetYourGuide'den bir çok tur bulduk ama bizim kaldığımız otelin kendi turu bize daha cazip  ve toplu turlara katıldık. Sabah gün doğmadan erkenden hazırlanıp çıktık.</p>
 
           <p className="text-gray-800 text-lg leading-relaxed">Oldukça kalabalık gruplar halinde uçan balonların bulunduğu bölgeye geldik. Burada önce balonların hazırlıklarını izledik. Bir sürü kişi, çocuklar da dahil olmak üzere bir balonu hazır hale getiriyordu. Gün yavaş yavaş aydınlanıyordu ve sonunda Luksor'u uçan balonla kuş bakışı gördük.</p>
@@ -194,12 +196,33 @@ function Misir() {
             />
           </div>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Batı yakasındaki gezimizi tamamladıktan sonra konakladığımız bölgeye, yani Luksor’un daha lokal ve sakin olan doğu tarafına döndük. Akşam olunca çarşıya çıktık; Ramazan süsleri, ışıklar ve kalabalık gerçekten büyüleyici bir atmosfer yaratıyordu. Hem biraz alışveriş yaptık hem de hediyelik eşyalar aldık.</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Yemek için ise Al Sahaby Lane Restaurant’a gittik. Burası Nefertiti Hotel’in üst katında yer alıyor ve muhteşem bir manzaraya sahip. Terastan baktığınızda bir yanda Luksor Tapınağı, diğer yanda Nil Nehri ve uzaklarda Krallar Vadisi görünüyor. Manzara adeta kartpostal gibiydi.</p>
 
-          <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <p className="text-gray-800 text-lg leading-relaxed">Yemeklere gelince… Menüde hem geleneksel Mısır mutfağından seçenekler vardı hem de daha global tatlar – pizza, hamburger gibi. Ben yine klasiklerden yana tercih yaptım ama arkadaşlarım biraz daha cesur davrandı; deve eti denediler. Güvercin etinden sonra benim için ikinci “garip” yemek sayılabilir. 😊</p>
 
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-12">
+            <img
+              src="/blogs_2/egypt/e21.jpeg"
+              className="w-full h-auto rounded-lg shadow-md object-cover"
+            />
+            <video
+              src="/blogs_2/egypt/e22.MOV"
+              autoPlay
+              muted
+              loop
+              au
+              controls
+              className="w-full h-auto rounded-lg shadow-md object-cover"
+            />
+            <img
+              src="/blogs_2/egypt/e23.jpeg"
+              className="w-full h-auto rounded-lg shadow-md object-cover"
+            />
+          </div>
+
+         
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
