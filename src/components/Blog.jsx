@@ -29,6 +29,31 @@ const geziBlogs = [
     imageUrl: "/blogs/misir5.jpg",
     link: "/blog/Misir",
   },
+  {
+    title: "Bosna Hersek",
+    imageUrl: "/blogs_2/bosna.jpeg",
+    link: "/blog/BosnaHersek",
+  },
+  {
+    title: "Kuzey Makedonya",
+    imageUrl: "/blogs_2/makedonya.jpeg",
+    link: "/blog/KuzeyMakedonya",
+  },
+  {
+    title: "Karadağ",
+    imageUrl: "/blogs_2/karadag.jpeg",
+    link: "/blog/Karadag",
+  },
+  {
+    title: "Sırbistan",
+    imageUrl: "/blogs_2/sirbistan.jpeg",
+    link: "/blog/Sirbistan",
+  },
+  {
+    title: "Arnavutluk",
+    imageUrl: "/blogs_2/arnavut.jpeg",
+    link: "/blog/Arnavutluk",
+  },
 ];
 
 function Blog() {

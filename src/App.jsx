@@ -12,6 +12,11 @@ import Menu from "./components/Menu";
 import ProjectDetail from "./pages/ProjectDetail";
 import Gurcistan from "./pages/blog/Gurcistan";
 import Misir from "./pages/blog/Misir";
+import BosnaHersek from "./pages/blog/BosnaHersek";
+import KuzeyMakedonya from "./pages/blog/KuzeyMakedonya";
+import Karadag from "./pages/blog/Karadag";
+import Sirbistan from "./pages/blog/Sirbistan";
+import Arnavutluk from "./pages/blog/Arnavutluk";
 import Footer from "./components/Footer";
 import ScrollToTopButton from "./components/ScrollToTopButton";
 
@@ -70,6 +75,12 @@ function App() {
         <Route path="/proje/:slug" element={<ProjectDetail />} />
         <Route path="/blog/Gurcistan" element={<Gurcistan />} />
         <Route path="/blog/Misir" element={<Misir />} />
+        <Route path="/blog/BosnaHersek" element={<BosnaHersek />} />
+        <Route path="/blog/KuzeyMakedonya" element={<KuzeyMakedonya />} />
+        <Route path="/blog/Karadag" element={<Karadag />} />
+        <Route path="/blog/Sirbistan" element={<Sirbistan />} />
+        <Route path="/blog/Arnavutluk" element={<Arnavutluk />} />
+
       </Routes>
     </>
   );
