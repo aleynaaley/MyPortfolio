@@ -11,7 +11,7 @@ function Sirbistan() {
           <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">Sırbistan Gezisi</h1>
           {/* Banner görsel (sayfa başı) */}
           <img
-            src="/blogs_2/sırbistan"
+            src="/blogs_2/sırbistan.jpeg"
             className="w-full rounded-lg shadow-md" />
 
           <br></br>
