@@ -79,6 +79,7 @@ function Karadag() {
             />
           </div>
 
+
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
