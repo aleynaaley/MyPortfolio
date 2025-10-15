@@ -69,12 +69,10 @@ function Karadag() {
 
             <img
               src="/blogs_2/karadag/k4.jpeg"
-              alt="Episode"
               className="w-full md:w-[48%] rounded-lg shadow-md"
             />
             <img
               src="/blogs_2/karadag/k5.jpeg"
-              alt="Episode Tbilisi Otel"
               className="w-full md:w-[48%] rounded-lg shadow-md"
             />
           </div>
@@ -85,6 +83,10 @@ function Karadag() {
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
+          <img
+              src="/blogs_2/karadag/k6.jpeg"
+              className="w-full md:w-[48%] rounded-lg shadow-md"
+            />
 
           <p className="text-gray-800 text-lg leading-relaxed"></p>
 
