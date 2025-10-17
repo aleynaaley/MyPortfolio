@@ -163,7 +163,7 @@ function Karadag() {
           </div>
 
           <p className="text-gray-800 text-lg leading-relaxed">Böylece Karadağ'daki günübirlik maceramızın sonuna gelmiş olduk. Kotor'un tarihi sokaklarında kaybolmak, o harika sorbeyi tatmak ve Sveti Stefan'ın uzaktan görünen masalsı silüeti... Kısacık bir güne bile ne kadar çok güzellik sığdırılabileceğini görmek harikaydı. Karadağ, kesinlikle daha uzun bir zaman ayrılıp her köşesini keşfetmeyi hak eden, etkileyici bir ülke.</p>
-
+          <p className="text-gray-800 text-lg leading-relaxed mb-12">Umarım bu yazı, Karadağ'ı ziyaret etmeyi düşünenler için ilham verici olmuştur. Bir sonraki seyahatimde görüşmek üzere!</p>
         </div>
         </section></>
   );
