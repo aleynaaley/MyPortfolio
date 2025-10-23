@@ -14,6 +14,7 @@ function Projects() {
     { id: 7, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
     { id: 8, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
     { id: 9, name: "Smart Home Automation", imageUrl: "/projects/proje4.png", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
+    { id: 10, name: "Mongo Web Site Clone", imageUrl: "/projects/proje10.png", link: "https://github.com/aleynaaley/MangoClone" },
   ];
 
   return (
