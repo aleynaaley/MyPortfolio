@@ -8,7 +8,7 @@ function KuzeyMakedonya() {
     </button>
       <section className="min-h-screen bg-white py-16 px-6 sm:px-12">
         <div className="max-w-4xl mx-auto space-y-8">
-          <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">Kuzey Makedonya Gezisi</h1>
+          <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">Makedonya İncileri; Ohri, Manastır, Üsküp</h1>
           {/* Banner görsel (sayfa başı) */}
           <img
             src="/blogs_2/sırbistan.jpeg"
@@ -17,7 +17,7 @@ function KuzeyMakedonya() {
           <br></br>
           <p className="text-gray-800 text-lg leading-relaxed">
             Merhaba!
-            Bu yazımda, arkadaşlarımla birlikte yaptığım Sırbistan
+            Bu yazımda, arkadaşlarımla birlikte yaptığım Makedonya gezisinden bahsedeceğim
           </p>
 
          
