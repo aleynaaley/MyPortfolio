@@ -8,7 +8,7 @@ function BosnaHersek() {
     </button>
       <section className="min-h-screen bg-white py-16 px-6 sm:px-12">
         <div className="max-w-4xl mx-auto space-y-8">
-          <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">BosnaHersek Gezisi</h1>
+          <h1 className="text-4xl font-bold text-[#819A91] text-center mb-6">Bosna Hersek</h1>
           {/* Banner görsel (sayfa başı) */}
           <img
             src="/blogs_2/sırbistan.jpeg"
