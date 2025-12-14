@@ -36,11 +36,7 @@ function Misir() {
 
           <p className="text-gray-800 text-lg leading-relaxed">Vizeyi pasaporta damgalattıktan sonra pasaport kontrolüne geçtik ve uçakta dağıttıkları bilgi kartlarını (isim, doğum tarihi, nerede kalacağımız, otel adı gibi bilgilerin yazdığı kartlar) da teslim edip havaalanından çıkış yaptık.</p>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-12">
-            <img
-              src="/blogs_2/egypt/e2.jpg"
-              className="w-full h-auto rounded-lg shadow-md object-cover"
-            />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-12">
             <img
               src="/blogs_2/egypt/e3.jpg"
               className="w-full h-auto rounded-lg shadow-md object-cover"

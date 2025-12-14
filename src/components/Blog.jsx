@@ -72,7 +72,7 @@ function Blog() {
             className="relative group overflow-hidden rounded-lg shadow-lg"
           >
             <img src={blog.imageUrl} alt={blog.title} className="w-full h-60 object-cover group-hover:scale-105 transition-transform duration-300" />
-            <div className="absolute inset-0 bg-black bg-opacity-40 group-hover:bg-opacity-60 transition duration-300 flex items-center justify-center">
+            <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-60 transition duration-300 flex items-center justify-center">
               <h3 className="text-white text-xl font-semibold text-center px-4">{blog.title}</h3>
             </div>
           </a>

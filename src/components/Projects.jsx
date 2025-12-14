@@ -10,11 +10,13 @@ function Projects() {
     { id: 3, name: "Board Game Archive", imageUrl: "/projects/proje3.png", link: "https://github.com/aleynaaley/BoardGameArchive" },
     { id: 4, name: "Ecole 42 Projects", imageUrl: "/projects/proje5.jpg", link: "/proje/ecole-42-projects" },
     { id: 5, name: "PusulaAI", imageUrl: "/projects/proje6.png", link: "https://github.com/PusulaAI77" },
-    { id: 6, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
-    { id: 7, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
-    { id: 8, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
-    { id: 9, name: "Smart Home Automation", imageUrl: "/projects/proje4.png", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
-    { id: 10, name: "Mongo Web Site Clone", imageUrl: "/projects/proje10.png", link: "https://github.com/aleynaaley/MangoClone" },
+    { id: 6, name: "Driver Drowsiness and Behaviour Detection System ", imageUrl: "/projects/proje11.png", link: "https://github.com/aleynaaley/BitirmeProjesi" },
+    { id: 7, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
+    { id: 8, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
+    { id: 9, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
+    { id: 10, name: "Smart Home Automation", imageUrl: "/projects/proje4.png", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
+    { id: 11, name: "Mongo Web Site Clone", imageUrl: "/projects/proje10.png", link: "https://github.com/aleynaaley/MangoClone" },
+   
   ];
 
   return (
@@ -73,7 +75,7 @@ function Projects() {
                   alt={name}
                   className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
-                <div className="absolute inset-0 bg-black bg-opacity-30 group-hover:bg-opacity-60 transition duration-300"></div>
+                <div className="absolute inset-0 bg-black bg-opacity-10 group-hover:bg-opacity-60 transition duration-300"></div>
                 <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
                   <h3 className="text-white text-lg font-semibold px-2 text-center">{name}</h3>
                 </div>

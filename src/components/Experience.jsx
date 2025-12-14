@@ -4,13 +4,13 @@ function Experience() {
       title: "Bilgi Teknolojileri Stajyerliği",
       company: "TNC Group Şirketleri",
       period: "Ağustos 2025 - Eylül 2025",
-      description: "TNC Group Şirketleri bünyesinde Bilgi Teknolojileri stajyerliğim boyunca Excel, AutoCAD, Python, Photoshop , Yazılım Proje Yönetimi ve Ekip çalışması gibi beceriler kazanmayı hedefliyorum."
+      description: "TNC Group Şirketleri bünyesinde Bilgi Teknolojileri stajyerliğim boyunca Excel, AutoCAD, Python, Photoshop , Yazılım Proje Yönetimi ve Ekip çalışması gibi beceriler kazandım."
     },
     {
       title: "Mobil Uygulama Eğitmenliği",
       company: "T3 Vakfı / Deneyap Atölyesi",
       period: "Temmuz 2024 - Ağustos 2024",
-      description: "Deneyap atölyelerinde 1,5 ay boyunca orta okul seviyesindeki öğrencilere Mobil Uygulama eğitmenliği yaptım. Bu eğitmenlik bana ; araştırma , sunum becerileri , mobil uygulama geliştirme süreçleri gibi beceriler kattı."
+      description: "Deneyap atölyelerinde yaklaşık iki ay boyunca orta okul seviyesindeki öğrencilere Mobil Uygulama eğitmenliği yaptım. Bu eğitmenlik bana ; araştırma , sunum becerileri , mobil uygulama geliştirme süreçleri gibi beceriler kattı."
     }
   ];
 
