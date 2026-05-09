@@ -1,6 +1,12 @@
 function Experience() {
   const experiences = [
     {
+    title: "Yazılım Geliştirme Stajyerliği",
+    company: "Mobiliz Bilişim Teknolojileri A.Ş.",
+    period: "Ocak 2026 - Şubat 2026",
+    description: "Kurumsal seviyedeki Spring projelerinin backend geliştirme süreçlerinde aktif rol aldım. Mevcut servislerdeki hataların giderilmesi (bug fixing), servis performanslarının optimize edilmesi ve sistem verimliliğini artıracak iyileştirmeler üzerinde çalışarak Java ekosistemi ve mikroservis mimarileri üzerine deneyim kazandım."
+    },
+    {
       title: "Bilgi Teknolojileri Stajyerliği",
       company: "TNC Group Şirketleri",
       period: "Ağustos 2025 - Eylül 2025",

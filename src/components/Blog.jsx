@@ -54,6 +54,11 @@ const geziBlogs = [
     imageUrl: "/blogs_2/arnavut.jpeg",
     link: "/blog/Arnavutluk",
   },
+  {
+    title: "Kuzey Kıbrıs Türk Cumhuriyeti",
+    imageUrl: "/blogs_2/kıbrıs/k4.png",
+    link: "/blog/Kibris",
+  },
 ];
 
 function Blog() {

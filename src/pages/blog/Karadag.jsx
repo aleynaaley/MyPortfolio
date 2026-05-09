@@ -25,7 +25,7 @@ function Karadag() {
           <video
             src="/blogs_2/karadag/k1.mov"
             autoPlay
-            muted
+            muted={true}
             loop
             className="w-80 mx-auto h-auto rounded-lg shadow-md my-6"
           >
@@ -46,7 +46,7 @@ function Karadag() {
           <video
             src="/blogs_2/karadag/k3.mov"
             autoPlay
-            muted
+            muted={true}
             loop
             className="w-80 mx-auto h-auto rounded-lg shadow-md my-6"
           >

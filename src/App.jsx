@@ -17,6 +17,7 @@ import KuzeyMakedonya from "./pages/blog/KuzeyMakedonya";
 import Karadag from "./pages/blog/Karadag";
 import Sirbistan from "./pages/blog/Sirbistan";
 import Arnavutluk from "./pages/blog/Arnavutluk";
+import KuzeyKibris from "./pages/blog/Kibris";
 import Footer from "./components/Footer";
 import ScrollToTopButton from "./components/ScrollToTopButton";
 
@@ -79,7 +80,7 @@ function App() {
         <Route path="/blog/KuzeyMakedonya" element={<KuzeyMakedonya />} />
         <Route path="/blog/Karadag" element={<Karadag />} />
         <Route path="/blog/Sirbistan" element={<Sirbistan />} />
-        <Route path="/blog/Arnavutluk" element={<Arnavutluk />} />
+        <Route path="/blog/Kibris" element={<KuzeyKibris />} />
 
       </Routes>
     </>

@@ -10,12 +10,13 @@ function Projects() {
     { id: 3, name: "Board Game Archive", imageUrl: "/projects/proje3.png", link: "https://github.com/aleynaaley/BoardGameArchive" },
     { id: 4, name: "Ecole 42 Projects", imageUrl: "/projects/proje5.jpg", link: "/proje/ecole-42-projects" },
     { id: 5, name: "PusulaAI", imageUrl: "/projects/proje6.png", link: "https://github.com/PusulaAI77" },
-    { id: 6, name: "Driver Drowsiness and Behaviour Detection System ", imageUrl: "/projects/proje11.png", link: "https://github.com/aleynaaley/BitirmeProjesi" },
-    { id: 7, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
-    { id: 8, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
-    { id: 9, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
-    { id: 10, name: "Smart Home Automation", imageUrl: "/projects/proje4.png", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
-    { id: 11, name: "Mongo Web Site Clone", imageUrl: "/projects/proje10.png", link: "https://github.com/aleynaaley/MangoClone" },
+    { id: 6, name: "Driver Drowsiness and Behaviour Detection System ", imageUrl: "/projects/proje11.png", link: "https://github.com/aleynaaley/DriverBehaviorDetectionSystem" },
+    { id: 7, name: "Driver Drowsiness and Behaviour Detection APP ", imageUrl: "/projects/proje12.png", link: "https://github.com/aleynaaley/DMSApp" },
+    { id: 8, name: "Çay Molası Extension", imageUrl: "/projects/proje7.png", link: "https://github.com/aleynaaley/cay_molasi_extension" },
+    { id: 9, name: "Roll Dice App", imageUrl: "/projects/proje8.png", link: "https://github.com/aleynaaley/Roll_Dice_App" },
+    { id: 10, name: "Ocarina Converter", imageUrl: "/projects/proje9.png", link: "https://ocarinaconverter.netlify.app/" },
+    { id: 11, name: "Smart Home Automation", imageUrl: "/projects/proje4.png", link: "https://github.com/aleynaaley/SmartHomeAutomation" },
+    { id: 12, name: "Mongo Web Site Clone", imageUrl: "/projects/proje10.png", link: "https://github.com/aleynaaley/MangoClone" },
    
   ];
 
