@@ -117,7 +117,7 @@ function KuzeyKıbrısTürkCumhuriyeti() {
                             className="w-full h-80 object-cover rounded-lg shadow-md"
                         />
                     </div>
-                    <h2 className="text-2xl font-bold text-[#819A91] mt-8">2 Gün: Girne Kalesi</h2>
+                    <h2 className="text-2xl font-bold text-[#819A91] mt-8">2. Gün: Girne Kalesi</h2>
 
                     <p className="text-gray-800 text-lg leading-relaxed">
                         İkinci gün sabahı erkenden kalkıp planladığımız o 3 günlük araç kiralama operasyonu için acentenin yolunu tuttuk. Depozitosuz bir şekilde, 3 gün için toplam 5 bin TL’ye aracımızı kiraladık.
