@@ -329,7 +329,7 @@ function KuzeyKıbrısTürkCumhuriyeti() {
                         Kıbrıs köftesinden mezelerine kadar her şey çok lezzetliydi. Denizin hemen kıyısında, dalga sesleri ve hafif bir bahar esintisi eşliğinde yediğimiz bu yemek, ikinci günümüzün en keyifli finali oldu. Yemekten sonra aracımıza atlayıp yaklaşık yarım saatlik bir sürüşle Lefkoşa’daki evimize döndük. Yarın bizi tekrar Girne yolları bekliyor!
                     </p>
 
-                    <h2 className="text-2xl font-bold text-[#819A91] mt-8">3 Gün: Girne Alagadi Turtle Beach</h2>
+                    <h2 className="text-2xl font-bold text-[#819A91] mt-8">3. Gün: Girne Alagadi Turtle Beach</h2>
                     <p className="text-gray-800 text-lg leading-relaxed">
                         bu günümüz pazar gününe denk geliyordu. Pazar günleri adada bir çok yer kapalı olabiliyor veya çalışma saatleri değişebiliyor. Biz de bu durumu bildiğimiz için günümüzü hem biraz daha keşif yapmaya hem de denize ayırmaya karar verdik. Sabah evimizde kızlarla güzel bir kahvaltı yapıp enerjimizi topladıktan sonra tekrar düştük yollara.
                     </p>
