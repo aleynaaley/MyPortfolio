@@ -4,7 +4,7 @@ Bu proje, benim kişisel portföy web sitemdir. React, Vite, TailwindCSS gibi mo
 
 ## 🔗 Canlı Site
 
-👉 [https://aleynaerkul.netlify.app/](https://aleynaerkul.netlify.app/)
+👉 [https://aleynaerkul.com.tr/](https://aleynaerkul.com.tr/)
 
 ## 🛠️ Kullanılan Teknolojiler
 
